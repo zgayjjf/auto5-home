@@ -1,0 +1,113 @@
+.root {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 6px;
+  background-color: #ffffff1a;
+}
+.iMAGE {
+  width: 24px;
+  height: 24px;
+  background-image:/* webpackIgnore: true */ url('/assets/iMAGE2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.content {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+}
+.xcode {
+  color: #fff;
+  font-size: 13px;
+  line-height: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.1px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.searchAndOpenYourRecentXcodePr {
+  color: #fff9;
+  font-size: 13px;
+  line-height: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.1px;
+  width: 500px;
+  height: 16px;
+  flex-direction: column;
+}
+.statGroup {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 0 8px;
+}
+.frame8 {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 10px;
+}
+.frame {
+  width: 16px;
+  height: 16px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+._243k {
+  color: #fff9;
+  font-size: 12px;
+  line-height: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.1px;
+  width: 35px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame9 {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 10px;
+}
+.frame2 {
+  width: 16px;
+  height: 16px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+._12 {
+  color: #fff9;
+  font-size: 12px;
+  line-height: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.1px;
+  width: 14px;
+  height: min-content;
+  flex-direction: column;
+}
+.iMAGE2 {
+  width: 16px;
+  height: 16px;
+  border-radius: 8px;
+  background-image:/* webpackIgnore: true */ url('/assets/iMAGE3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
